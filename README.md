@@ -187,10 +187,10 @@ export default App;
 ```
 ##### Explanation
 
-// HoverTracker Component: This component tracks the hover state and passes it to its children via the render prop.
+HoverTracker Component: This component tracks the hover state and passes it to its children via the render prop.
 
-// HoverText and HoverButton Components: Both use the hover state to change their style, but they customize their appearance differently. The text changes color, while the button changes background color.
+HoverText and HoverButton Components: Both use the hover state to change their style, but they customize their appearance differently. The text changes color, while the button changes background color.
 
-// Usage: You can use HoverText and HoverButton in the app, and both benefit from the reusable hover detection logic.
+Usage: You can use HoverText and HoverButton in the app, and both benefit from the reusable hover detection logic.
 
 
